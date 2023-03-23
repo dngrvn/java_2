@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE name = "Ivanov" AND country = "Russia" AND city = "Moscow";

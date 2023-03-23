@@ -1,0 +1,5256 @@
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:04 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:05 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
+нояб. 27, 2022 8:28:06 PM TASK_2.task2 main
+INFO: Шаг не выполнен!!!
